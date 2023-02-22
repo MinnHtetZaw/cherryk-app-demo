@@ -1,0 +1,217 @@
+body{
+    transition: .5s;
+}
+p{
+    font-size: 14px;
+    color: rgba(62, 62, 63, 0.85);
+}
+li{
+    font-size: 14px;
+    color: rgba(62, 62, 63, 0.85);
+}
+
+/*.nav-pills>.nav-item>.nav-link{*/
+/*    color: rgba(62, 62, 63, 0.85) !important;*/
+/*}*/
+th{
+    font-size: 11px;
+    line-height: 40px;
+    color: rgba(39, 53, 68, 0.82);
+    font-weight: bold;
+
+}
+td{
+    font-size: 13px;
+    line-height: 30px;
+    color: #2c3e50;
+}
+
+/*Button*/
+.btn-primary {
+    color: #fff;
+    background-color: #696cff !important;
+    border-color: #696cff !important;
+    box-shadow: 0 0.125rem 0.25rem 0 rgb(105 108 255 / 40%);
+}
+.modal-header.bg-primary{
+    opacity: 0.9;
+    color: white !important;
+    background-color: #696cff !important;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #5f61e6 !important;
+    border-color: #5f61e6 !important;
+    transform: translateY(-1px);
+}
+
+.btn-warning {
+    color: #fff !important;
+    background-color: #ffab00;
+    border-color: #ffab00;
+    box-shadow: 0 0.125rem 0.25rem 0 rgb(255 171 0 / 40%);
+}
+
+.btn-warning:hover {
+    color: #fff !important;
+    background-color: #e69a00;
+    border-color: #e69a00;
+    transform: translateY(-1px);
+}
+
+.btn-danger {
+    color: #fff;
+    background-color: #ff3e1d;
+    border-color: #ff3e1d;
+    box-shadow: 0 0.125rem 0.25rem 0 rgb(255 62 29 / 40%);
+}
+
+.btn-danger:hover {
+    color: #fff;
+    background-color: #e6381a;
+    border-color: #e6381a;
+    transform: translateY(-1px);
+}
+
+/*Nav*/
+
+
+
+/*Body*/
+.main{
+    height: 100vh !important;
+    overflow: scroll;
+}
+
+ul ul{
+    list-style-type: none !important;
+}
+/*Shadow*/
+.shadow-sm{
+    box-shadow: 0 2px 6px 0 rgb(67 89 113 / 12%) !important;
+}
+
+/*Nav Pill*/
+/*.nav-pills .nav-link.active{*/
+/*    color: #ffffff !important;*/
+/*}*/
+
+/*Card*/
+.card{
+    align-items: stretch!important;
+    background: #fff !important;
+    border-radius: 8px !important;
+    box-shadow: 0 3px 5px 0 rgb(36 50 66 / 20%) !important;
+    color: #646f79 !important;
+    transition: box-shadow .3s !important;
+}
+.card:hover {
+    box-shadow: 0 20px 30px 0 rgb(36 50 66 / 14%) !important;
+}
+/*accordion-button*/
+
+
+/*Company Name*/
+.company-name{
+    color: #8192ff;
+    font-weight: 600;
+}
+
+/*html element*/
+a{
+    color: #697a8d !important;
+}
+a.page-link.active{
+    background-color: #696cff !important;
+    border-color: #696cff !important;
+    color: #ffffff !important;
+}
+
+/*profit*/
+
+
+
+/*Calendar*/
+a.fc-event, a.fc-event:hover {
+    text-decoration: none;
+    font-weight: 700;
+}
+.fc .fc-daygrid-day.fc-day-today{
+    background-color: rgba(145, 85, 253, 0.16) !important;
+}
+.fc table{
+    border-radius: 10px 10px 10px 10px;
+}
+.fc .fc-toolbar-title{
+    color: #8192ff !important;
+}
+.violet{
+    padding: 10px;
+    border-radius: 5px;
+    color: #ffffff;
+    background-color: rgba(129, 146, 255, 0.65) !important;
+}
+
+.progress-bar{
+    background-color: #696cff !important;
+    color: #fff !important;
+    box-shadow: 0 2px 4px 0 rgb(105 108 255 / 90%) !important;
+}
+
+/*Badge*/
+.badge.bg-primary{
+    background: #696cff !important;
+}
+.form-check-input:checked {
+    background-color: #696cff !important;
+    border-color: #696cff !important;
+    box-shadow: 0 0.125rem 0.25rem 0 rgb(105 108 255 / 40%);
+}
+
+.member-img:hover{
+    transform: scale(1.5);
+    transition: 1s;
+}
+.fa-paperclip{
+    color: #696cff;
+    padding: 10px;
+}
+.fa-paperclip:hover{
+    transition: .5s;
+    color: #696cff;
+    background-color: rgba(105, 108, 255, 0.10);
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.fa-minus{
+    color: #ff4c51;
+    background-color: rgba(255, 76, 81, 0.1);
+    padding: 5px;
+    border-radius: 50%;
+}
+.text-primary{
+    color: #8192ff !important;
+}
+
+
+/*Badge*/
+.badge.bg-gold{
+    background-color: #f5e11a;
+}
+.badge.bg-platinum{
+    background-color: #56cfe1;
+}
+.badge.bg-diamond{
+    background-color: #c1a0fe;
+}
+
+
+
+
+/*===*/
+footer{
+    position: sticky !important;
+    bottom: 0 !important;
+    display: block;
+}

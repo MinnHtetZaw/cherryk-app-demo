@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 144 72" style="enable-background:new 0 0 144 72;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#v_2_);}
+	.st1{fill:url(#v_3_);}
+	.st2{fill:url(#down_1_);}
+	.st3{fill:url(#wave_1_);}
+	.st4{fill:#93A6FF;}
+	.st5{font-family:'Lato-Semibold';}
+	.st6{font-size:18px;}
+	.st7{fill:#737CF8;}
+	.st8{font-family:'Lato-Bold';}
+	.st9{font-size:6px;}
+</style>
+<linearGradient id="v_2_" gradientUnits="userSpaceOnUse" x1="16.565" y1="14.0433" x2="34.1395" y2="42.0998">
+	<stop  offset="0" style="stop-color:#B6C6E6"/>
+	<stop  offset="0.2374" style="stop-color:#B9C9E7"/>
+	<stop  offset="0.5894" style="stop-color:#8792C9"/>
+	<stop  offset="1" style="stop-color:#8390C8"/>
+</linearGradient>
+<path id="v_1_" class="st0" d="M4.52,1.17h11.92c0.63,0,1.2,0.34,1.52,0.88l17.05,29.84c0.37,0.65,0.19,1.49-0.43,1.92l-8.62,6.01
+	c-0.84,0.58-2,0.33-2.51-0.56L3.01,3.79C2.34,2.63,3.18,1.17,4.52,1.17z"/>
+<linearGradient id="v_3_" gradientUnits="userSpaceOnUse" x1="58.8725" y1="8.6609" x2="82.2473" y2="8.6609">
+	<stop  offset="0" style="stop-color:#818DC6"/>
+	<stop  offset="0.4956" style="stop-color:#7078B9"/>
+	<stop  offset="0.8133" style="stop-color:#676EB4"/>
+	<stop  offset="0.9544" style="stop-color:#656CB2"/>
+	<stop  offset="1" style="stop-color:#646AB1"/>
+</linearGradient>
+<path id="v" class="st1" d="M59,14.98c2.51-4.54,5.01-9.08,7.52-13.62c0.18-0.32,0.51-0.51,0.87-0.51l13.86,0
+	c0.76,0,1.24,0.82,0.87,1.48l-3.54,6.29c-0.14,0.25-0.38,0.43-0.65,0.49c-2.52,0.56-4.69,0.47-7.65,1.63
+	c-3.85,1.5-7.04,3.6-9.84,5.54C59.57,16.88,58.49,15.9,59,14.98z"/>
+<linearGradient id="down_1_" gradientUnits="userSpaceOnUse" x1="29.8755" y1="48.8199" x2="68.1045" y2="48.8199">
+	<stop  offset="0" style="stop-color:#646AB1"/>
+	<stop  offset="0.0966" style="stop-color:#7179BA"/>
+	<stop  offset="0.2041" style="stop-color:#7B85C1"/>
+	<stop  offset="0.316" style="stop-color:#818DC6"/>
+	<stop  offset="0.4385" style="stop-color:#8390C8"/>
+	<stop  offset="0.588" style="stop-color:#818DC6"/>
+	<stop  offset="0.7368" style="stop-color:#7A84C1"/>
+	<stop  offset="0.8847" style="stop-color:#6F77B9"/>
+	<stop  offset="1" style="stop-color:#646AB1"/>
+</linearGradient>
+<path id="down" class="st2" d="M30.01,50.5l11.74,20.15c0.39,0.67,1.37,0.67,1.75-0.01l24.46-42.62c0.52-0.91-0.52-1.92-1.41-1.36
+	l-36.2,22.47C29.89,49.41,29.74,50.02,30.01,50.5z"/>
+<linearGradient id="wave_1_" gradientUnits="userSpaceOnUse" x1="12.0902" y1="55.1854" x2="96.9789" y2="13.5811">
+	<stop  offset="0" style="stop-color:#9FA0CF"/>
+	<stop  offset="0.0729" style="stop-color:#A7ADD7"/>
+	<stop  offset="0.1837" style="stop-color:#B1BCE0"/>
+	<stop  offset="0.2991" style="stop-color:#B7C6E6"/>
+	<stop  offset="0.4254" style="stop-color:#B9C9E7"/>
+	<stop  offset="0.5688" style="stop-color:#B5C5E5"/>
+	<stop  offset="0.7114" style="stop-color:#AAB9DF"/>
+	<stop  offset="0.8537" style="stop-color:#99A7D5"/>
+	<stop  offset="0.9952" style="stop-color:#8490C8"/>
+	<stop  offset="1" style="stop-color:#8390C8"/>
+</linearGradient>
+<path id="wave" class="st3" d="M2.78,44.19c0.22-0.14,1.64,4.06,5.23,5.87c4.64,2.34,11.13-0.23,27.57-11.87
+	C50.4,27.7,60.42,18.95,73.76,14.7c3.67-1.17,8.69-2.35,13.4-0.13c4.27,2.01,6.73,6.08,7.53,7.4c2.13,3.52,2.78,6.93,2.55,7.02
+	c-0.2,0.08-0.91-2.47-3.32-4.47c0,0-1.67-1.38-4.09-2.05c-8-2.21-26.42,11.5-26.42,11.5c-17.38,12.94-23,18.14-34.21,22.47
+	c-6.98,2.69-11.34,3.2-15.39,1.62C5.83,54.97,2.43,44.42,2.78,44.19z"/>
+<text transform="matrix(1 0 0 1 66.4146 46.748)" class="st4 st5 st6">Victorius</text>
+<text transform="matrix(1 0 0 1 74.2786 53.3917)" class="st7 st8 st9">AESTHETIC EMR APP</text>
+</svg>
