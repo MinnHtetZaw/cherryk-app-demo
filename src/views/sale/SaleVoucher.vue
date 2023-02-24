@@ -5,12 +5,12 @@
         <div class="card mb-3 rounded shadow-sm border-0 p-3" >
           <div style="background: #ffffff;" id="printableArea">
             <div class="d-flex gap-3 justify-content-center align-items-center">
-              <img src="../../assets/vlogo.png" style="width: 50px;" alt="">
-              <h5 class="text-uppercase" style="text-align: center;color: #8192ff;">victorious clinic invoice</h5>
+              <!-- <img src="../../assets/vlogo.png" style="width: 50px;" alt=""> -->
+              <h5 class="text-uppercase" style="text-align: center;color: #8192ff;">clinic invoice</h5>
             </div>
             <div>
-              <p style="font-size: 11px;" class="text-center text-secondary mb-1">အမှတ် ၆၇၇၊ မြေညီထပ်၊ မေတ္တာလမ်း၊ ၉ ရပ်ကွက် (City Mart အနီး)၊ တောင်ဥက္ကလာပ မြို့နယ်၊ ရန်ကုန်မြို့</p>
-              <p style="font-size: 11px;" class="text-center text-secondary mb-1">09784407840 , 09969121111 , 09750145883</p>
+              <p style="font-size: 11px;" class="text-center text-secondary mb-1">ရန်ကုန်မြို့</p>
+              <p style="font-size: 11px;" class="text-center text-secondary mb-1">09123456789</p>
             </div>
 
                 <div class="row">

@@ -15,12 +15,12 @@
               <div class="row">
                 <div class="col-7">
                   <div class="d-flex gap-3 justify-content-center align-items-center">
-                    <img src="../../assets/vlogo.png" style="width: 50px;" alt="">
-                    <h4 style="color: #8192ff;" class="text-center">Victorious Clinic Medical Record</h4>
+                    <!-- <img src="../../assets/vlogo.png" style="width: 50px;" alt=""> -->
+                    <h4 style="color: #8192ff;" class="text-center">Clinic Medical Record</h4>
                   </div>
                   <div>
-                    <p class="text-center">အမှတ် ၆၇၇၊ မြေညီထပ်၊ မေတ္တာလမ်း၊ ၉ ရပ်ကွက် (City Mart အနီး)၊ တောင်ဥက္ကလာပ မြို့နယ်၊ ရန်ကုန်မြို့</p>
-                    <p class="text-center">09784407840 , 09969121111 , 09750145883</p>
+                    <p class="text-center">ရန်ကုန်မြို့</p>
+                    <p class="text-center">09123456789</p>
                   </div>
                 </div>
               </div>

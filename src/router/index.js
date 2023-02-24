@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router'
+  import { createRouter, createWebHistory } from 'vue-router'
 import Category from "@/views/master-data/Category";
 import Subcategory from "@/views/master-data/Subcategory";
 import Brand from "@/views/master-data/Brand";

@@ -7,8 +7,8 @@
           <div class="d-flex gap-3 align-items-center">
             <i type="button" @click="back" class="fa-solid fa-arrow-left" title="Back"></i>
             <div class="d-flex align-items-center gap-2">
-              <img src="../../assets/vlogo.png" style="width: 30px;" alt="">
-              <h6 style="color: #8685ef" class="mb-0">Victorious Aesthetic Clinic</h6>
+              <!-- <img src="../../assets/vlogo.png" style="width: 30px;" alt=""> -->
+              <h6 style="color: #8685ef" class="mb-0">Clinic</h6>
             </div>
           </div>
           <div v-if="auth != null" class="d-flex gap-3 align-items-center">

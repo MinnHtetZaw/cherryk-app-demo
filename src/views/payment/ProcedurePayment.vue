@@ -25,21 +25,11 @@
               <div class="row" id="mydiv">
                 <div class="col-10 m-auto" id="printVoucher">
 
-<!--                    <div>-->
-<!--                      <h4 style="color: #8192ff" class="text-uppercase">Victorious</h4>-->
-<!--                      <p class="mb-0">Dermatology &-->
-<!--                        Aesthetic Clinic</p>-->
-<!--                    </div>-->
-<!--                  <div>-->
-<!--                    <p>အမှတ် ၆၇၇၊ မြေညီထပ်၊ မေတ္တာလမ်း၊ ၉ ရပ်ကွက် (City Mart အနီး)၊ တောင်ဥက္ကလာပ မြို့နယ်၊ ရန်ကုန်မြို့</p>-->
-<!--                    <p class="text-center">09784407840 , 09969121111 , 09750145883</p>-->
-<!--                  </div>-->
+
                   <div class="row">
                     <div class="col-7">
                       <div class="d-flex justify-content-between align-items-start">
-                        <div class="d-flex justify-content-start">
-                          <img src="../../assets/vlogo.png" style="width: 50px;" alt="">
-                        </div>
+                        
                         <h5 class="text-center text-secondary mb-1">INVOICE</h5>
                       </div>
                     </div>
